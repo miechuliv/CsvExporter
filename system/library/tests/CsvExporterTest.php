@@ -6,7 +6,7 @@
  * Time: 11:43
  * To change this template use File | Settings | File Templates.
  */
-include_once(__DIR__.'/../CsvExporter.php');
+include_once(__DIR__ . '/../CsvExporter.php');
 
 class CsvExporterTest extends PHPUnit_Framework_TestCase {
 
