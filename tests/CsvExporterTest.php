@@ -15,7 +15,7 @@ class CsvExporterTest extends PHPUnit_Framework_TestCase {
          $headers = array(
              'head1',
              'head2',
-             'head4'
+             'head5'
          );
 
          $data = array(
